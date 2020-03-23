@@ -1,0 +1,17 @@
+# code-optimus_prime
+STUDENT_DB_SQLite PROJECT - MENU-DRIVEN (PYTHON LANGUAGE WITH SQLite DATABASE)
+
+RUN "STUDENT_DB_Main.py" FILE, HERE YOU WILL GET FOLLOWING OPTIONS,
+   To Insert student(s) detail press '1' :
+   To Delete student's detail press '2' :
+   To Search student's detail press '3' :
+   To see ALL students record press '4' :
+   To calculate Percentage of student press '5' :
+   To exit press '6' :
+
+#NOTE : OPTION '1' i.e. Insert OPTION WILL CREATE DATABASE AND TABLE, SO CHOOSE '1' AND INSERT RECORDS. 
+
+DESCRIPTION :
+            INSERT OPTION REQUIRES FOLLOWING INFORMATION ABOUT STUDENT, ROLL_NUMBER, NAME, SURNAME, MARKS OF 5 SUBJECTS.
+            AFTER INSERTING YOU'LL BE ABLE TO DO OTHER OPERATIONS, DELETE, SEARCH, SEE ALL RECORDS AT ONCE AND CALCULATE
+            THE PERCENTAGE OF A STUDENT WITH ALL DETAIL SHOWN.
