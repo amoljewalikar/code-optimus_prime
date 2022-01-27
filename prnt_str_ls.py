@@ -1,9 +1,6 @@
 str1="My name is Amol"
-lstr=str1.split() #take into list
-print(lstr)
-j=[]
-n=[]
-for i in lstr:
+j, n= [], []
+for i in str1.split():
     if len(i)==4:
         j.append(i)
 for k in j:
